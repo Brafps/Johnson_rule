@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1",
+    "Tempo de banho": 10,
+    "Tempo de tosa": 7
+  },
+  {
+    "Id": "2",
+    "Tempo de banho": 15,
+    "Tempo de tosa": 16
+  },
+  {
+    "Id": "3",
+    "Tempo de banho": 8,
+    "Tempo de tosa": 13
+  },
+  {
+    "Id": "4",
+    "Tempo de banho": 9,
+    "Tempo de tosa": 10
+  },
+  {
+    "Id": "5",
+    "Tempo de banho": 10,
+    "Tempo de tosa": 15
+  },
+  {
+    "Id": "6",
+    "Tempo de banho": 8,
+    "Tempo de tosa": 11
+  }
+]
